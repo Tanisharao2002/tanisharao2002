@@ -17,13 +17,13 @@
 
 - ⚡ Fun fact **I'm a quick learner.**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">🔗 Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/tanisharao20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tanisharao20" height="40" width="50" /></a>
-<a href="https://linkedin.com/in/tanisha911" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tanisha911" height="40" width="50" /></a>
-<a href="https://stackoverflow.com/users/tanisharao2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="tanisharao2002" height="40" width="50" /></a>
-<a href="https://instagram.com/tanisha.rao_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tanisha.rao_" height="40" width="50" /></a>
-<a href="https://www.codechef.com/users/tanisharao2002" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="tanisharao2002" height="40" width="50" /></a>
+<a href="https://twitter.com/tanisharao20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tanisharao20" height="40" width="50" /></a><br>
+<a href="https://linkedin.com/in/tanisha911" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tanisha911" height="40" width="50" /></a><br>
+<a href="https://stackoverflow.com/users/tanisharao2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="tanisharao2002" height="40" width="50" /></a><br>
+<a href="https://instagram.com/tanisha.rao_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tanisha.rao_" height="40" width="50" /></a><br>
+<a href="https://www.codechef.com/users/tanisharao2002" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="tanisharao2002" height="40" width="50" /></a><br>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
