@@ -6,7 +6,7 @@
 
 
 <p align="left"> <a href="https://twitter.com/tanisharao20" target="blank"><img src="https://img.shields.io/twitter/follow/tanisharao20?logo=twitter&style=for-the-badge" alt="tanisharao20" /></a> </p>
-<img src="Tanisha logo (1).png" alt="c" width="40" height="40"/>
+<img src="Tanisha logo (1).png" alt="c" width="100%" height="60"/>
 
 - 🔭 I’m currently working on **Chemictionary**
 
