@@ -1,9 +1,5 @@
 ### Hi there 👋
-<style>
-  img{
-    margin:2;
-  }
-</style>
+
 <h1 align="center">Hi 👋, I'm Tanisha Rao</h1>
 <h3 align="center">A passionate developer from India.</h3>
 
@@ -25,8 +21,8 @@
 
 <h3 align="left">🔗 Connect With Me:</h3>
 <p align="left">
-<a style="padding:3" href="https://twitter.com/tanisharao20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tanisharao20" height="40" width="50" /></a>
-<a style="padding:3" href="https://linkedin.com/in/tanisha911" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tanisha911" height="40" width="50" /></a>
+<a style="padding:3 margin:2" href="https://twitter.com/tanisharao20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tanisharao20" height="40" width="50" /></a>
+<a style="padding:3 margin:2" href="https://linkedin.com/in/tanisha911" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tanisha911" height="40" width="50" /></a>
 <a style="padding:3" href="https://stackoverflow.com/users/tanisharao2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="tanisharao2002" height="40" width="50" /></a>
 <a style="padding:3" href="https://instagram.com/tanisha.rao_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tanisha.rao_" height="40" width="50" /></a>
 <a style="padding:3" href="https://www.codechef.com/users/tanisharao2002" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="tanisharao2002" height="40" width="50" /></a>
