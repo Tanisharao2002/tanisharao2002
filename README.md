@@ -18,7 +18,7 @@
 
 - ⚡ Fun fact **I'm a quick learner.**
 
-<h3 align="left">🔗 Connect with me:</h3>
+
 <p align="left">
 <a style="padding:3" href="https://twitter.com/tanisharao20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tanisharao20" height="40" width="50" /></a>
 <a style="padding:3" href="https://linkedin.com/in/tanisha911" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tanisha911" height="40" width="50" /></a>
