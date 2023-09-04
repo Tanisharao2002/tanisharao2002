@@ -18,8 +18,9 @@
 - 📫 How to reach me **tanisharao810@gmail.com**
 
 - ⚡ Fun fact **I'm a quick learner.**
-
+<p style="align:center">
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Tanisharao2002)](https://git.io/streak-stats)
+</p>
 
 <h3 align="left">🔗 Connect With Me:</h3>
 <p align="left">
