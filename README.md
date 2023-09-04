@@ -19,6 +19,8 @@
 
 - ⚡ Fun fact **I'm a quick learner.**
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Tanisharao2002)](https://git.io/streak-stats)
+
 <h3 align="left">🔗 Connect With Me:</h3>
 <p align="left">
 <a style="padding:3 margin:2" href="https://twitter.com/tanisharao20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tanisharao20" height="40" width="50" /></a>
