@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-<h1 align="center" style="text-decoration:underline">Hi 👋, I'm Tanisha Rao</h1>
+<a href="https://tanisharao2002.github.io/" text-align="center"><h1 align="center" style="text-decoration:underline">Hi 👋, I'm Tanisha Rao</h1></a>
 <h3 align="center">A passionate developer from India.</h3>
-<a href="https://tanisharao2002.github.io/" text-align="center">My Portfolio</a>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanisharao2002&label=Profile%20views&color=0e75b6&style=flat" alt="tanisharao2002" /> </p>
 
