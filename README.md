@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<a href="https://tanisharao2002.github.io/" text-align="center"><h1 align="center" style="text-decoration:underline">Hi 👋, I'm Tanisha Rao</h1></a>
+<a href="https://tanisharao2002.github.io/"> <h1 align="center" style="text-decoration:underline"> Hi 👋, I'm Tanisha Rao </h1> </a>
 <h3 align="center">A passionate developer from India.</h3>
 
 
