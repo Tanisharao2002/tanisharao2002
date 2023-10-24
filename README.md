@@ -3,7 +3,7 @@
 <h1 align="center" style="text-decoration:underline"> <a href="https://tanisharao2002.github.io/">  Hi 👋, I'm Tanisha Rao  </a> </h1>
 
 <h3 align="center">A passionate developer from India. </h3>
-<a href="https://git.io/typing-svg" ><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=723AF7&random=false&width=435&lines=Front+End+Web+Developer;Back+End+Web+Developer;Web+Designer;Problem+Solver" alt="Typing SVG"  align="center"/></a>
+<a href="https://git.io/typing-svg" align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=723AF7&random=false&width=435&lines=Front+End+Web+Developer;Back+End+Web+Developer;Web+Designer;Problem+Solver" alt="Typing SVG" /></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanisharao2002&label=Profile%20views&color=0e75b6&style=flat" alt="tanisharao2002" /> </p>
 
