@@ -3,7 +3,7 @@
 <h1 align="center" style="text-decoration:underline"> <a href="https://tanisharao2002.github.io/">  Hi 👋, I'm Tanisha Rao  </a> </h1>
 
 <h3 align="center">A passionate developer from India. </h3>
-<div style="display: flex; justify-content: center; align-items: center; ;">
+<div style="display: flex; justify-content: center; align-items: center; max-width:100%;">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=723AF7&random=false&width=435&lines=Front+End+Web+Developer;Back+End+Web+Developer;Web+Designer;Problem+Solver" alt="Typing SVG" />
 </div>
 
