@@ -3,7 +3,7 @@
 <h1 align="center" style="text-decoration:underline"> <a href="https://tanisharao2002.github.io/">  Hi 👋, I'm Tanisha Rao  </a> </h1>
 
 <h3 align="center">A passionate developer from India. </h3>
-
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Front End Web Developer;Back End web Developer; Web Designer; Problem Solving Mindholder)](https://git.io/typing-svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanisharao2002&label=Profile%20views&color=0e75b6&style=flat" alt="tanisharao2002" /> </p>
 
