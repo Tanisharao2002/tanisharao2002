@@ -3,7 +3,7 @@
 <h1 align="center" style="text-decoration:underline"> <a href="https://tanisharao2002.github.io/">  Hi 👋, I'm Tanisha Rao  </a> </h1>
 
 <h3 align="center">
- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=723AF7&random=false&width=435&lines=Front+End+Web+Developer;Back+End+Web+Developer;Web+Designer;Problem+Solver" alt="Typing SVG" style="max-width:100%"/></h3>
+ <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=723AF7&random=false&width=435&lines=Front+End+Web+Developer;Back+End+Web+Developer;Web+Designer;Problem+Solver" alt="Typing SVG" /></h3>
    
 
 
