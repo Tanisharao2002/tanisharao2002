@@ -4,6 +4,7 @@
 
 <h3 align="center">
 <!--  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=723AF7&random=false&width=435&lines=Front+End+Web+Developer;Back+End+Web+Developer;Web+Designer;Problem+Solver" alt="Typing SVG" style="max-width:fit-content"/> -->
+   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=723AF7&random=false&width=435&lines=Front+End+Web+Developer;Back+End+Web+Developer;Web+Designer;Problem+Solver" alt="Typing SVG" style="max-width: fit-content; margin: 0 auto;">
 </h3>
    
 
