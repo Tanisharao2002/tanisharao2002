@@ -3,17 +3,8 @@
 <h1 align="center" style="text-decoration:underline"> <a href="https://tanisharao2002.github.io/">I'm Tanisha Rao</a> </h1>
 
 <h3 align="center">
-<!--  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=723AF7&random=false&width=435&lines=Front+End+Web+Developer;Back+End+Web+Developer;Web+Designer;Problem+Solver" alt="Typing SVG" style="max-width:fit-content"/> -->
    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=723AF7&random=false&width=435&lines=Front+End+Web+Developer;Back+End+Web+Developer;Web+Designer;Problem+Solver" alt="Typing SVG" style="max-width: fit-content; margin: 0 auto;">
 </h3>
-   
-
-
-
-<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=tanisharao2002&label=Profile%20views&color=0e75b6&style=flat" alt="tanisharao2002" /> </p> -->
-
-<!--
-<p align="left"> <a href="https://twitter.com/tanisharao20" target="blank"><img src="https://img.shields.io/twitter/follow/tanisharao20?logo=twitter&style=for-the-badge" alt="tanisharao20" /></a> </p> -->
 
 <img src="Tanisha logo (1).png" alt="c" width="100%" height="50%"/>
 
