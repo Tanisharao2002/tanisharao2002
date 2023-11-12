@@ -31,7 +31,7 @@
 <a style="padding:3" href="https://www.codechef.com/users/tanisharao2002" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="tanisharao2002" height="40" width="50" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+
 <p align="left"> 
 <a style="padding:3"  href="https://babeljs.io/" target="_blank" rel="noreferrer"> 
   <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> 
