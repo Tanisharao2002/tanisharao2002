@@ -9,7 +9,7 @@
 
 <img src="Tanisha logo (1).png" alt="c" width="100%" height="50%"/>
 
-- 🔭 I’m currently working on **Chemictionary, Chat Group and Knowledge Cache**
+
 
 - 🌱 I’m currently learning **Reactjs & Figma**
 
