@@ -11,7 +11,8 @@
 - 🔭 I’m currently working on **Chemictionary, Chat Group and Knowledge Cache**
 
 - 🌱 I’m currently learning **Reactjs & Figma**
-
+  
+- 💬 Ask me about **C, C++, CSS, JS**
 
 - 📫 How to reach me **tanisharao810@gmail.com**
 
