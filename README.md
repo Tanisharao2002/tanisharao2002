@@ -11,7 +11,9 @@
 
 - 🌱 I’m currently learning **Reactjs & Figma**
   
+- 💬 Ask me about **C, C++, CSS, JS**
 
+- 📫 How to reach me **tanisharao810@gmail.com**
 
 - ⚡ Fun fact **I'm a quick learner.**
 
