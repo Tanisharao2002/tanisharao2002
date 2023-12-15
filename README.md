@@ -13,9 +13,7 @@
   
 - 💬 Ask me about **C, C++, CSS, JS**
 
-- 📫 How to reach me **tanisharao810@gmail.com**
 
-- ⚡ Fun fact **I'm a quick learner.**
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Tanisharao2002)](https://git.io/streak-stats)
 
