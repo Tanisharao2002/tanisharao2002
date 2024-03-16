@@ -16,6 +16,7 @@
   
 - 💬 Ask me about **C, C++, CSS, JS**
 
+- 🎯 Want to be a **React Developer**
 
 - ⚡ Fun fact **I'm a quick learner.**
 
