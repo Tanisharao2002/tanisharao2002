@@ -18,7 +18,7 @@
 
 - 🎯 Want to be a **React Developer**
 
-
+- ⚡ Fun fact **I'm a quick learner.**
 
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Tanisharao2002)](https://git.io/streak-stats)
