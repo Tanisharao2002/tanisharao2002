@@ -5,7 +5,7 @@
           <a href="https://tanisharao2002.github.io">⭐ I'm Tanisha Rao ⭐</a>                        
    <hr />                                           
    </h1>          
-   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=723AF7&random=false&width=435&lines=Front+End+Web+Developer;Back+End+Web+Developer;Web+Designer;Problem+Solver" alt="Typing SVG" style="max-width: 100vw; margin: 0 auto;">  
+   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=723AF7&random=false&width=435&lines=Front+End+Web+Developer;Back+End+Web+Developer;Web+Designer;Problem+Solver" alt="Typing SVG" style="max-width: 100vw; margin: 0 auto;">   
      
 </h3>       
 <img src="Tanisha logo (1).png" alt="c" width="100%" height="50%"/>  
