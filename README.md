@@ -21,7 +21,7 @@
 - ⚡ Fun fact **I'm a quick learner.**
 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Tanisharao2002)](https://git.io/streak-stats)
+<!--[![GitHub Streak](https://streak-stats.demolab.com/?user=Tanisharao2002)](https://git.io/streak-stats) -->
 
 <h3 align="left">🔗 Connect With Me:</h3>
 <p align="left">
